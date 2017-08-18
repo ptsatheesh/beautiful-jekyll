@@ -24,7 +24,7 @@ description: How to make sense of Big Data in Business? Roadmap | Stratgey | Tem
 # List of links in the navigation bar
 navbar-links:
   About Me:"aboutme"
-  Resources: " "
+  Resources: "TEST"
     - Getting Started: "http://deanattali.com/beautiful-jekyll/"
     - Hadoop Distribtions: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
