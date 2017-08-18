@@ -24,10 +24,10 @@ description: How to make sense of Big Data in Business? Roadmap | Stratgey | Tem
 # List of links in the navigation bar
 navbar-links:
   About Me:"aboutme"
-  Resources: "TEST"
-    - Getting Started: "http://deanattali.com/beautiful-jekyll/"
-    - Hadoop Distribtions: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    #Resources: "TEST"
+    # - Getting Started: "http://deanattali.com/beautiful-jekyll/"
+    #- Hadoop Distribtions: "http://www.markdowntutorial.com/"
+    #- GitHub Pages: "https://pages.github.com/"
   Author's home:"http://ptsatheesh.github.io
 
 # Image to show in the navigation bar - image must be a square (width = height)
